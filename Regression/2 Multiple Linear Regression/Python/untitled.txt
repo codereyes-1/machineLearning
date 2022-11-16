@@ -1,0 +1,15 @@
+5 methods of building models:
+    1. All-In
+    2. Backwards elimination
+    3. Forward selection
+    4. Bidirectional elimination
+    5. Score comparison
+        **3,4,5{Stepwise regression}
+        
+1. All-In: throw in all your vars
+    if you have prior knowlege OR
+    required by a framework you are using(maybe bank reqs vars to predict chances of default on credit)
+    preparing for backward elimination
+    
+Backward elimination
+1. Select significance level to stay in the model (e.g. SL = 0.05)
